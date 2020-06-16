@@ -5,7 +5,7 @@ public class Constants {
 	//public static final String CHROME_DRIVER_PATH = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver";
 	public static final String CHROME_DRIVER_PATH = "/Users/yuliia/Downloads/chromedriver 2";
 			
-	public static final String GECKO_DRIVER_PATH = System.getProperty("user.dir") + "/src/test/resources/drivers/geckodriver";
+	public static final String GECKO_DRIVER_PATH = System.getProperty("user.dir") + "/var/lib/jenkins/workspace/test-cucumber/GeniusDoctor/src/test/resources/drivers";
 	
 	public static final int PAGE_LOAD_TIME = 30;
 	
